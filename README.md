@@ -90,11 +90,12 @@ pip install -r requirements.txt
 
 ## 5. Team Members<a class="anchor" id="team-members"></a>
 
-| Name                                                                                        |  Email              
-|---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
+| Name and Email              
+|-----------------------------------------------------------------------------------------------------------------             
+| [Dumisani Liphosa]  liphosadumi@gmail.com
+| [Dewald Scriven]  dewald.scriven@gmail.com
+| [Fulufhelo Themeli]  fulufhelo.themeli@absa.africa
+  [Gavin Govender]  gavin.govender2@absa.africa
 
 
 
