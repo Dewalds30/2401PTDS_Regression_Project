@@ -100,12 +100,11 @@ pip install -r requirements.txt
 
 ## 5. Team Members<a class="anchor" id="team-members"></a>
 
-| Name                                                                                        |  Email              
-|---------------------------------------------------------------------------------------------|--------------------             
+
+| Name and Email                         
 | [Dewald Scriven]                                                                            | dewald.scriven@gmail.com
 | [Gavin Govender]                                                                            | gavin.govender2@absa.africa
 | [Fulufhelo Tehmeli]                                                                         | fulufhelo.themeli@absa.africa
-
 
 
 
