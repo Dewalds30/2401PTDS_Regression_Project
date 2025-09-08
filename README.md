@@ -62,8 +62,18 @@ Forestland is the only feature that exhibits negative emissions due to its role 
 ## 3. Packages <a class="anchor" id="packages"></a>
 
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
-+ `Pandas 2.2.2` and `Numpy 1.26`
-+ `Matplotlib 3.8.4`
++ 'import os', 'math'
++ 'from pathlib import Path'
++ 'import numpy as np'
++ 'import pandas as pd'
++ 'from sklearn.model_selection import train_test_split, KFold, cross_validate, GridSearchCV'
++ 'from sklearn.compose import ColumnTransformer'
++ 'from sklearn.preprocessing import StandardScaler'
++ 'from sklearn.pipeline import Pipeline'
++ 'from sklearn.metrics import mean_squared_error, r2_score, mean_squared_log_error, make_scorer'
++ 'from sklearn.linear_model import LinearRegression'
++ 'from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor'
++ 'import joblib'
  
 
 ## 4. Environment <a class="anchor" id="environment"></a>
@@ -90,12 +100,11 @@ pip install -r requirements.txt
 
 ## 5. Team Members<a class="anchor" id="team-members"></a>
 
-| Name and Email              
-|-----------------------------------------------------------------------------------------------------------------             
-| [Dumisani Liphosa]  liphosadumi@gmail.com
-| [Dewald Scriven]  dewald.scriven@gmail.com
-| [Fulufhelo Themeli]  fulufhelo.themeli@absa.africa
-  [Gavin Govender]  gavin.govender2@absa.africa
+
+| Name and Email                         
+| [Dewald Scriven]                                                                            | dewald.scriven@gmail.com
+| [Gavin Govender]                                                                            | gavin.govender2@absa.africa
+| [Fulufhelo Tehmeli]                                                                         | fulufhelo.themeli@absa.africa
 
 
 
